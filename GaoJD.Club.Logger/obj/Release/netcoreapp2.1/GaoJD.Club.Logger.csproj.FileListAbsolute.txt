@@ -1,0 +1,12 @@
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\GaoJD.Club.Logger\bin\Release\netcoreapp2.1\GaoJD.Club.Logger.deps.json
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\GaoJD.Club.Logger\bin\Release\netcoreapp2.1\GaoJD.Club.Logger.dll
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\GaoJD.Club.Logger\bin\Release\netcoreapp2.1\GaoJD.Club.Logger.pdb
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\GaoJD.Club.Logger\bin\Release\netcoreapp2.1\GaoJD.Club.Utility.dll
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\GaoJD.Club.Logger\bin\Release\netcoreapp2.1\GaoJD.Club.Utility.pdb
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\GaoJD.Club.Logger\obj\Release\netcoreapp2.1\GaoJD.Club.Logger.csprojAssemblyReference.cache
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\GaoJD.Club.Logger\obj\Release\netcoreapp2.1\GaoJD.Club.Logger.csproj.CoreCompileInputs.cache
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\GaoJD.Club.Logger\obj\Release\netcoreapp2.1\GaoJD.Club.Logger.AssemblyInfoInputs.cache
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\GaoJD.Club.Logger\obj\Release\netcoreapp2.1\GaoJD.Club.Logger.AssemblyInfo.cs
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\GaoJD.Club.Logger\obj\Release\netcoreapp2.1\GaoJD.Club.Logger.csproj.CopyComplete
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\GaoJD.Club.Logger\obj\Release\netcoreapp2.1\GaoJD.Club.Logger.dll
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\GaoJD.Club.Logger\obj\Release\netcoreapp2.1\GaoJD.Club.Logger.pdb

@@ -1,0 +1,8 @@
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.BusinessEntity\bin\Debug\netcoreapp2.1\GaoJD.TeacherClub.BusinessEntity.deps.json
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.BusinessEntity\bin\Debug\netcoreapp2.1\GaoJD.TeacherClub.BusinessEntity.dll
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.BusinessEntity\bin\Debug\netcoreapp2.1\GaoJD.TeacherClub.BusinessEntity.pdb
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.BusinessEntity\obj\Debug\netcoreapp2.1\GaoJD.TeacherClub.BusinessEntity.csproj.CoreCompileInputs.cache
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.BusinessEntity\obj\Debug\netcoreapp2.1\GaoJD.TeacherClub.BusinessEntity.AssemblyInfoInputs.cache
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.BusinessEntity\obj\Debug\netcoreapp2.1\GaoJD.TeacherClub.BusinessEntity.AssemblyInfo.cs
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.BusinessEntity\obj\Debug\netcoreapp2.1\GaoJD.TeacherClub.BusinessEntity.dll
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.BusinessEntity\obj\Debug\netcoreapp2.1\GaoJD.TeacherClub.BusinessEntity.pdb

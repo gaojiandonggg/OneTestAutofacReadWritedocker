@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GaoJD.Club.OneTest</name>
+    </assembly>
+    <members>
+        <member name="M:OneTest.Startup.GetAllAssembly(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="dllName"></param>
+            <returns></returns>
+        </member>
+        <member name="M:OneTest.Startup.FindPlugin(System.String)">
+            <summary>
+            查找所有插件的路径
+            </summary>
+            <param name="dllName"></param>
+            <returns></returns>
+        </member>
+        <member name="M:OneTest.Startup.GetClassName(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.String)">
+            <summary>  
+            获取程序集中的实现类对应的多个接口
+            </summary>
+            <param name="services"></param>  
+            <param name="assemblyName">程序集</param>
+        </member>
+        <member name="M:GaoJD.Club.OneTest.Controllers.UserController.GetByID(System.Int32)">
+            <summary>
+            通过主键获取
+            </summary>
+            <param name="ID"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GaoJD.Club.OneTest.Controllers.UserController.GetUser(System.String,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="userName"></param>
+            <param name="userPwd"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GaoJD.Club.OneTest.Controllers.UserController.GetAll">
+            <summary>
+            通过主键获取
+            </summary>
+            <param name="ID"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GaoJD.Club.OneTest.Controllers.UserController.RemoveByID(System.Int32)">
+            <summary>
+            删除
+            </summary>
+            <param name="id"></param>
+        </member>
+        <member name="M:GaoJD.Club.OneTest.Controllers.UserController.RemoveByEntity(GaoJD.Club.BusinessEntity.User)">
+            <summary>
+            删除
+            </summary>
+            <param name="id"></param>
+        </member>
+        <member name="M:GaoJD.Club.OneTest.Controllers.UserController.RemoveBylamda">
+            <summary>
+            删除
+            </summary>
+            <param name="id"></param>
+        </member>
+        <member name="M:GaoJD.Club.OneTest.Controllers.UserController.Edit(GaoJD.Club.BusinessEntity.User)">
+            <summary>
+            
+            </summary>
+            <param name="usr"></param>
+        </member>
+        <member name="M:GaoJD.Club.OneTest.Controllers.UserController.AddList">
+            <summary>
+            
+            </summary>
+            <param name="usr"></param>
+        </member>
+        <member name="T:GaoJD.Club.OneTest.Filter.CustomExceptionFilterAttribute">
+            <summary>
+            异常处理过滤器-记录日志
+            </summary>
+        </member>
+    </members>
+</doc>

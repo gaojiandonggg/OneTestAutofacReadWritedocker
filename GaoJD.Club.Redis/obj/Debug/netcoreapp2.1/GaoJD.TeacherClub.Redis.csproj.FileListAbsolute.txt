@@ -1,0 +1,12 @@
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.Redis\bin\Debug\netcoreapp2.1\GaoJD.TeacherClub.Redis.deps.json
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.Redis\bin\Debug\netcoreapp2.1\GaoJD.TeacherClub.Redis.dll
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.Redis\bin\Debug\netcoreapp2.1\GaoJD.TeacherClub.Redis.pdb
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.Redis\bin\Debug\netcoreapp2.1\GaoJD.TeacherClub.Utility.dll
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.Redis\bin\Debug\netcoreapp2.1\GaoJD.TeacherClub.Utility.pdb
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.Redis\obj\Debug\netcoreapp2.1\GaoJD.TeacherClub.Redis.csprojAssemblyReference.cache
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.Redis\obj\Debug\netcoreapp2.1\GaoJD.TeacherClub.Redis.csproj.CoreCompileInputs.cache
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.Redis\obj\Debug\netcoreapp2.1\GaoJD.TeacherClub.Redis.AssemblyInfoInputs.cache
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.Redis\obj\Debug\netcoreapp2.1\GaoJD.TeacherClub.Redis.AssemblyInfo.cs
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.Redis\obj\Debug\netcoreapp2.1\GaoJD.TeacherClub.Redis.csproj.CopyComplete
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.Redis\obj\Debug\netcoreapp2.1\GaoJD.TeacherClub.Redis.dll
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.Redis\obj\Debug\netcoreapp2.1\GaoJD.TeacherClub.Redis.pdb

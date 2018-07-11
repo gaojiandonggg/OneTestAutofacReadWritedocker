@@ -1,0 +1,17 @@
+H:\学习\NetCoreTest\OneTestAutofacReadWrite\Open.TeacherClub.Core\obj\Release\netcoreapp2.1\Open.TeacherClub.Core.csprojAssemblyReference.cache
+H:\学习\NetCoreTest\OneTestAutofacReadWrite\Open.TeacherClub.Core\obj\Release\netcoreapp2.1\Open.TeacherClub.Core.csproj.CoreCompileInputs.cache
+H:\学习\NetCoreTest\OneTestAutofacReadWrite\Open.TeacherClub.Core\obj\Release\netcoreapp2.1\Open.TeacherClub.Core.AssemblyInfoInputs.cache
+H:\学习\NetCoreTest\OneTestAutofacReadWrite\Open.TeacherClub.Core\obj\Release\netcoreapp2.1\Open.TeacherClub.Core.AssemblyInfo.cs
+H:\学习\NetCoreTest\OneTestAutofacReadWrite\Open.TeacherClub.Core\bin\Release\netcoreapp2.1\Open.TeacherClub.Core.deps.json
+H:\学习\NetCoreTest\OneTestAutofacReadWrite\Open.TeacherClub.Core\bin\Release\netcoreapp2.1\Open.TeacherClub.Core.runtimeconfig.json
+H:\学习\NetCoreTest\OneTestAutofacReadWrite\Open.TeacherClub.Core\bin\Release\netcoreapp2.1\Open.TeacherClub.Core.runtimeconfig.dev.json
+H:\学习\NetCoreTest\OneTestAutofacReadWrite\Open.TeacherClub.Core\bin\Release\netcoreapp2.1\Open.TeacherClub.Core.dll
+H:\学习\NetCoreTest\OneTestAutofacReadWrite\Open.TeacherClub.Core\bin\Release\netcoreapp2.1\Open.TeacherClub.Core.pdb
+H:\学习\NetCoreTest\OneTestAutofacReadWrite\Open.TeacherClub.Core\bin\Release\netcoreapp2.1\Open.TeacherClub.BusinessEntity.dll
+H:\学习\NetCoreTest\OneTestAutofacReadWrite\Open.TeacherClub.Core\bin\Release\netcoreapp2.1\Open.TeacherClub.Utility.dll
+H:\学习\NetCoreTest\OneTestAutofacReadWrite\Open.TeacherClub.Core\bin\Release\netcoreapp2.1\Open.TeacherClub.BusinessEntity.pdb
+H:\学习\NetCoreTest\OneTestAutofacReadWrite\Open.TeacherClub.Core\bin\Release\netcoreapp2.1\Open.TeacherClub.Utility.pdb
+H:\学习\NetCoreTest\OneTestAutofacReadWrite\Open.TeacherClub.Core\obj\Release\netcoreapp2.1\Open.TeacherClub.Core.csproj.CopyComplete
+H:\学习\NetCoreTest\OneTestAutofacReadWrite\Open.TeacherClub.Core\obj\Release\netcoreapp2.1\Open.TeacherClub.Core.dll
+H:\学习\NetCoreTest\OneTestAutofacReadWrite\Open.TeacherClub.Core\obj\Release\netcoreapp2.1\Open.TeacherClub.Core.pdb
+H:\学习\NetCoreTest\OneTestAutofacReadWrite\Open.TeacherClub.Core\bin\Release\netcoreapp2.1\Open.TeacherClub.BusinessEntity.xml

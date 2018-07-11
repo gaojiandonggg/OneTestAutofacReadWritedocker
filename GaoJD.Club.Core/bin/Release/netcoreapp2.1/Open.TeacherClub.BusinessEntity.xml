@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Open.TeacherClub.BusinessEntity</name>
+    </assembly>
+    <members>
+        <member name="P:Open.TeacherClub.BusinessEntity.TokenUserInfo.LoginName">
+            <summary>
+            登录名
+            </summary>
+        </member>
+        <member name="P:Open.TeacherClub.BusinessEntity.TokenUserInfo.UserID">
+            <summary>
+            用户ID
+            </summary>
+        </member>
+        <member name="P:Open.TeacherClub.BusinessEntity.TokenUserInfo.RealName">
+            <summary>
+            姓名
+            </summary>
+        </member>
+        <member name="P:Open.TeacherClub.BusinessEntity.TokenUserInfo.UserLogo">
+            <summary>
+            用户头像
+            </summary>
+        </member>
+        <member name="P:Open.TeacherClub.BusinessEntity.TokenUserInfo.RandomStr">
+            <summary>
+            随机字符串
+            </summary>
+        </member>
+    </members>
+</doc>

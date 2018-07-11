@@ -1,0 +1,15 @@
+H:\学习\NetCoreTest\OneTest\OneTest\bin\Debug\netcoreapp2.1\OneTest.xml
+H:\学习\NetCoreTest\OneTest\OneTest\bin\Debug\netcoreapp2.1\OneTest.deps.json
+H:\学习\NetCoreTest\OneTest\OneTest\bin\Debug\netcoreapp2.1\OneTest.runtimeconfig.json
+H:\学习\NetCoreTest\OneTest\OneTest\bin\Debug\netcoreapp2.1\OneTest.runtimeconfig.dev.json
+H:\学习\NetCoreTest\OneTest\OneTest\bin\Debug\netcoreapp2.1\OneTest.dll
+H:\学习\NetCoreTest\OneTest\OneTest\bin\Debug\netcoreapp2.1\OneTest.pdb
+H:\学习\NetCoreTest\OneTest\OneTest\obj\Debug\netcoreapp2.1\OneTest.csproj.CoreCompileInputs.cache
+H:\学习\NetCoreTest\OneTest\OneTest\obj\Debug\netcoreapp2.1\OneTest.RazorAssemblyInfo.cache
+H:\学习\NetCoreTest\OneTest\OneTest\obj\Debug\netcoreapp2.1\OneTest.RazorAssemblyInfo.cs
+H:\学习\NetCoreTest\OneTest\OneTest\obj\Debug\netcoreapp2.1\OneTest.AssemblyInfoInputs.cache
+H:\学习\NetCoreTest\OneTest\OneTest\obj\Debug\netcoreapp2.1\OneTest.AssemblyInfo.cs
+H:\学习\NetCoreTest\OneTest\OneTest\obj\Debug\netcoreapp2.1\OneTest.RazorTargetAssemblyInfo.cache
+H:\学习\NetCoreTest\OneTest\OneTest\obj\Debug\netcoreapp2.1\OneTest.dll
+H:\学习\NetCoreTest\OneTest\OneTest\obj\Debug\netcoreapp2.1\OneTest.pdb
+H:\学习\NetCoreTest\OneTest\OneTest\obj\Debug\netcoreapp2.1\OneTest.csprojAssemblyReference.cache

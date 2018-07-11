@@ -1,0 +1,12 @@
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.Logger\bin\Debug\netcoreapp2.1\GaoJD.TeacherClub.Logger.deps.json
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.Logger\bin\Debug\netcoreapp2.1\GaoJD.TeacherClub.Logger.dll
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.Logger\bin\Debug\netcoreapp2.1\GaoJD.TeacherClub.Logger.pdb
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.Logger\bin\Debug\netcoreapp2.1\GaoJD.TeacherClub.Utility.dll
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.Logger\bin\Debug\netcoreapp2.1\GaoJD.TeacherClub.Utility.pdb
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.Logger\obj\Debug\netcoreapp2.1\GaoJD.TeacherClub.Logger.csprojAssemblyReference.cache
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.Logger\obj\Debug\netcoreapp2.1\GaoJD.TeacherClub.Logger.csproj.CoreCompileInputs.cache
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.Logger\obj\Debug\netcoreapp2.1\GaoJD.TeacherClub.Logger.AssemblyInfoInputs.cache
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.Logger\obj\Debug\netcoreapp2.1\GaoJD.TeacherClub.Logger.AssemblyInfo.cs
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.Logger\obj\Debug\netcoreapp2.1\GaoJD.TeacherClub.Logger.csproj.CopyComplete
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.Logger\obj\Debug\netcoreapp2.1\GaoJD.TeacherClub.Logger.dll
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.Logger\obj\Debug\netcoreapp2.1\GaoJD.TeacherClub.Logger.pdb

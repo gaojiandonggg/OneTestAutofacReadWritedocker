@@ -1,0 +1,43 @@
+H:\学习\NetCoreTest\OneTest\Open.TeacherClub.Utility\bin\Debug\netcoreapp2.1\Open.TeacherClub.Utility.deps.json
+H:\学习\NetCoreTest\OneTest\Open.TeacherClub.Utility\bin\Debug\netcoreapp2.1\Open.TeacherClub.Utility.dll
+H:\学习\NetCoreTest\OneTest\Open.TeacherClub.Utility\bin\Debug\netcoreapp2.1\Open.TeacherClub.Utility.pdb
+H:\学习\NetCoreTest\OneTest\Open.TeacherClub.Utility\obj\Debug\netcoreapp2.1\Open.TeacherClub.Utility.csprojAssemblyReference.cache
+H:\学习\NetCoreTest\OneTest\Open.TeacherClub.Utility\obj\Debug\netcoreapp2.1\Open.TeacherClub.Utility.csproj.CoreCompileInputs.cache
+H:\学习\NetCoreTest\OneTest\Open.TeacherClub.Utility\obj\Debug\netcoreapp2.1\Open.TeacherClub.Utility.AssemblyInfoInputs.cache
+H:\学习\NetCoreTest\OneTest\Open.TeacherClub.Utility\obj\Debug\netcoreapp2.1\Open.TeacherClub.Utility.AssemblyInfo.cs
+H:\学习\NetCoreTest\OneTest\Open.TeacherClub.Utility\obj\Debug\netcoreapp2.1\Open.TeacherClub.Utility.dll
+H:\学习\NetCoreTest\OneTest\Open.TeacherClub.Utility\obj\Debug\netcoreapp2.1\Open.TeacherClub.Utility.pdb
+H:\学习\NetCoreTest\OneTest - 副本\Open.TeacherClub.Utility\bin\Debug\netcoreapp2.1\Open.TeacherClub.Utility.deps.json
+H:\学习\NetCoreTest\OneTest - 副本\Open.TeacherClub.Utility\bin\Debug\netcoreapp2.1\Open.TeacherClub.Utility.dll
+H:\学习\NetCoreTest\OneTest - 副本\Open.TeacherClub.Utility\bin\Debug\netcoreapp2.1\Open.TeacherClub.Utility.pdb
+H:\学习\NetCoreTest\OneTest - 副本\Open.TeacherClub.Utility\obj\Debug\netcoreapp2.1\Open.TeacherClub.Utility.csprojAssemblyReference.cache
+H:\学习\NetCoreTest\OneTest - 副本\Open.TeacherClub.Utility\obj\Debug\netcoreapp2.1\Open.TeacherClub.Utility.csproj.CoreCompileInputs.cache
+H:\学习\NetCoreTest\OneTest - 副本\Open.TeacherClub.Utility\obj\Debug\netcoreapp2.1\Open.TeacherClub.Utility.AssemblyInfoInputs.cache
+H:\学习\NetCoreTest\OneTest - 副本\Open.TeacherClub.Utility\obj\Debug\netcoreapp2.1\Open.TeacherClub.Utility.AssemblyInfo.cs
+H:\学习\NetCoreTest\OneTest - 副本\Open.TeacherClub.Utility\obj\Debug\netcoreapp2.1\Open.TeacherClub.Utility.dll
+H:\学习\NetCoreTest\OneTest - 副本\Open.TeacherClub.Utility\obj\Debug\netcoreapp2.1\Open.TeacherClub.Utility.pdb
+H:\学习\NetCoreTest\OneTest - 副本\Open.TeacherClub.Utility\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Json.dll
+H:\学习\NetCoreTest\OneTest - 副本\Open.TeacherClub.Utility\bin\Debug\netcoreapp2.1\Microsoft.Extensions.DependencyInjection.dll
+H:\学习\NetCoreTest\OneTest - 副本\Open.TeacherClub.Utility\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Json.xml
+H:\学习\NetCoreTest\OneTest - 副本\Open.TeacherClub.Utility\bin\Debug\netcoreapp2.1\Microsoft.Extensions.DependencyInjection.xml
+H:\学习\NetCoreTest\OneTest - 副本\Open.TeacherClub.Utility\obj\Debug\netcoreapp2.1\Open.TeacherClub.Utility.csproj.CopyComplete
+H:\学习\NetCoreTest\OneTestAutofac\Open.TeacherClub.Utility\bin\Debug\netcoreapp2.1\Open.TeacherClub.Utility.deps.json
+H:\学习\NetCoreTest\OneTestAutofac\Open.TeacherClub.Utility\bin\Debug\netcoreapp2.1\Open.TeacherClub.Utility.runtimeconfig.json
+H:\学习\NetCoreTest\OneTestAutofac\Open.TeacherClub.Utility\bin\Debug\netcoreapp2.1\Open.TeacherClub.Utility.runtimeconfig.dev.json
+H:\学习\NetCoreTest\OneTestAutofac\Open.TeacherClub.Utility\bin\Debug\netcoreapp2.1\Open.TeacherClub.Utility.dll
+H:\学习\NetCoreTest\OneTestAutofac\Open.TeacherClub.Utility\bin\Debug\netcoreapp2.1\Open.TeacherClub.Utility.pdb
+H:\学习\NetCoreTest\OneTestAutofac\Open.TeacherClub.Utility\obj\Debug\netcoreapp2.1\Open.TeacherClub.Utility.csproj.CoreCompileInputs.cache
+H:\学习\NetCoreTest\OneTestAutofac\Open.TeacherClub.Utility\obj\Debug\netcoreapp2.1\Open.TeacherClub.Utility.AssemblyInfoInputs.cache
+H:\学习\NetCoreTest\OneTestAutofac\Open.TeacherClub.Utility\obj\Debug\netcoreapp2.1\Open.TeacherClub.Utility.AssemblyInfo.cs
+H:\学习\NetCoreTest\OneTestAutofac\Open.TeacherClub.Utility\obj\Debug\netcoreapp2.1\Open.TeacherClub.Utility.dll
+H:\学习\NetCoreTest\OneTestAutofac\Open.TeacherClub.Utility\obj\Debug\netcoreapp2.1\Open.TeacherClub.Utility.pdb
+H:\学习\NetCoreTest\OneTestAutofacReadWrite\Open.TeacherClub.Utility\bin\Debug\netcoreapp2.1\Open.TeacherClub.Utility.deps.json
+H:\学习\NetCoreTest\OneTestAutofacReadWrite\Open.TeacherClub.Utility\bin\Debug\netcoreapp2.1\Open.TeacherClub.Utility.runtimeconfig.json
+H:\学习\NetCoreTest\OneTestAutofacReadWrite\Open.TeacherClub.Utility\bin\Debug\netcoreapp2.1\Open.TeacherClub.Utility.runtimeconfig.dev.json
+H:\学习\NetCoreTest\OneTestAutofacReadWrite\Open.TeacherClub.Utility\bin\Debug\netcoreapp2.1\Open.TeacherClub.Utility.dll
+H:\学习\NetCoreTest\OneTestAutofacReadWrite\Open.TeacherClub.Utility\bin\Debug\netcoreapp2.1\Open.TeacherClub.Utility.pdb
+H:\学习\NetCoreTest\OneTestAutofacReadWrite\Open.TeacherClub.Utility\obj\Debug\netcoreapp2.1\Open.TeacherClub.Utility.csproj.CoreCompileInputs.cache
+H:\学习\NetCoreTest\OneTestAutofacReadWrite\Open.TeacherClub.Utility\obj\Debug\netcoreapp2.1\Open.TeacherClub.Utility.AssemblyInfoInputs.cache
+H:\学习\NetCoreTest\OneTestAutofacReadWrite\Open.TeacherClub.Utility\obj\Debug\netcoreapp2.1\Open.TeacherClub.Utility.AssemblyInfo.cs
+H:\学习\NetCoreTest\OneTestAutofacReadWrite\Open.TeacherClub.Utility\obj\Debug\netcoreapp2.1\Open.TeacherClub.Utility.dll
+H:\学习\NetCoreTest\OneTestAutofacReadWrite\Open.TeacherClub.Utility\obj\Debug\netcoreapp2.1\Open.TeacherClub.Utility.pdb

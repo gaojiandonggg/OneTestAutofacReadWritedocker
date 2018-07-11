@@ -1,0 +1,52 @@
+H:\学习\NetCoreTest\OneTest\Open.TeacherClub.Redis\bin\Debug\netcoreapp2.1\Open.TeacherClub.Redis.deps.json
+H:\学习\NetCoreTest\OneTest\Open.TeacherClub.Redis\bin\Debug\netcoreapp2.1\Open.TeacherClub.Redis.dll
+H:\学习\NetCoreTest\OneTest\Open.TeacherClub.Redis\bin\Debug\netcoreapp2.1\Open.TeacherClub.Redis.pdb
+H:\学习\NetCoreTest\OneTest\Open.TeacherClub.Redis\bin\Debug\netcoreapp2.1\Open.TeacherClub.Utility.dll
+H:\学习\NetCoreTest\OneTest\Open.TeacherClub.Redis\bin\Debug\netcoreapp2.1\Open.TeacherClub.Utility.pdb
+H:\学习\NetCoreTest\OneTest\Open.TeacherClub.Redis\obj\Debug\netcoreapp2.1\Open.TeacherClub.Redis.csprojAssemblyReference.cache
+H:\学习\NetCoreTest\OneTest\Open.TeacherClub.Redis\obj\Debug\netcoreapp2.1\Open.TeacherClub.Redis.csproj.CoreCompileInputs.cache
+H:\学习\NetCoreTest\OneTest\Open.TeacherClub.Redis\obj\Debug\netcoreapp2.1\Open.TeacherClub.Redis.AssemblyInfoInputs.cache
+H:\学习\NetCoreTest\OneTest\Open.TeacherClub.Redis\obj\Debug\netcoreapp2.1\Open.TeacherClub.Redis.AssemblyInfo.cs
+H:\学习\NetCoreTest\OneTest\Open.TeacherClub.Redis\obj\Debug\netcoreapp2.1\Open.TeacherClub.Redis.csproj.CopyComplete
+H:\学习\NetCoreTest\OneTest\Open.TeacherClub.Redis\obj\Debug\netcoreapp2.1\Open.TeacherClub.Redis.dll
+H:\学习\NetCoreTest\OneTest\Open.TeacherClub.Redis\obj\Debug\netcoreapp2.1\Open.TeacherClub.Redis.pdb
+H:\学习\NetCoreTest\OneTest - 副本\Open.TeacherClub.Redis\bin\Debug\netcoreapp2.1\Open.TeacherClub.Redis.deps.json
+H:\学习\NetCoreTest\OneTest - 副本\Open.TeacherClub.Redis\bin\Debug\netcoreapp2.1\Open.TeacherClub.Redis.dll
+H:\学习\NetCoreTest\OneTest - 副本\Open.TeacherClub.Redis\bin\Debug\netcoreapp2.1\Open.TeacherClub.Redis.pdb
+H:\学习\NetCoreTest\OneTest - 副本\Open.TeacherClub.Redis\bin\Debug\netcoreapp2.1\Open.TeacherClub.Utility.dll
+H:\学习\NetCoreTest\OneTest - 副本\Open.TeacherClub.Redis\bin\Debug\netcoreapp2.1\Open.TeacherClub.Utility.pdb
+H:\学习\NetCoreTest\OneTest - 副本\Open.TeacherClub.Redis\obj\Debug\netcoreapp2.1\Open.TeacherClub.Redis.csprojAssemblyReference.cache
+H:\学习\NetCoreTest\OneTest - 副本\Open.TeacherClub.Redis\obj\Debug\netcoreapp2.1\Open.TeacherClub.Redis.csproj.CoreCompileInputs.cache
+H:\学习\NetCoreTest\OneTest - 副本\Open.TeacherClub.Redis\obj\Debug\netcoreapp2.1\Open.TeacherClub.Redis.AssemblyInfoInputs.cache
+H:\学习\NetCoreTest\OneTest - 副本\Open.TeacherClub.Redis\obj\Debug\netcoreapp2.1\Open.TeacherClub.Redis.AssemblyInfo.cs
+H:\学习\NetCoreTest\OneTest - 副本\Open.TeacherClub.Redis\obj\Debug\netcoreapp2.1\Open.TeacherClub.Redis.csproj.CopyComplete
+H:\学习\NetCoreTest\OneTest - 副本\Open.TeacherClub.Redis\obj\Debug\netcoreapp2.1\Open.TeacherClub.Redis.dll
+H:\学习\NetCoreTest\OneTest - 副本\Open.TeacherClub.Redis\obj\Debug\netcoreapp2.1\Open.TeacherClub.Redis.pdb
+H:\学习\NetCoreTest\OneTest - 副本\Open.TeacherClub.Redis\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Json.dll
+H:\学习\NetCoreTest\OneTest - 副本\Open.TeacherClub.Redis\bin\Debug\netcoreapp2.1\Microsoft.Extensions.DependencyInjection.dll
+H:\学习\NetCoreTest\OneTest - 副本\Open.TeacherClub.Redis\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Json.xml
+H:\学习\NetCoreTest\OneTest - 副本\Open.TeacherClub.Redis\bin\Debug\netcoreapp2.1\Microsoft.Extensions.DependencyInjection.xml
+H:\学习\NetCoreTest\OneTestAutofac\Open.TeacherClub.Redis\bin\Debug\netcoreapp2.1\Open.TeacherClub.Redis.deps.json
+H:\学习\NetCoreTest\OneTestAutofac\Open.TeacherClub.Redis\bin\Debug\netcoreapp2.1\Open.TeacherClub.Redis.dll
+H:\学习\NetCoreTest\OneTestAutofac\Open.TeacherClub.Redis\bin\Debug\netcoreapp2.1\Open.TeacherClub.Redis.pdb
+H:\学习\NetCoreTest\OneTestAutofac\Open.TeacherClub.Redis\bin\Debug\netcoreapp2.1\Open.TeacherClub.Utility.dll
+H:\学习\NetCoreTest\OneTestAutofac\Open.TeacherClub.Redis\bin\Debug\netcoreapp2.1\Open.TeacherClub.Utility.pdb
+H:\学习\NetCoreTest\OneTestAutofac\Open.TeacherClub.Redis\obj\Debug\netcoreapp2.1\Open.TeacherClub.Redis.csprojAssemblyReference.cache
+H:\学习\NetCoreTest\OneTestAutofac\Open.TeacherClub.Redis\obj\Debug\netcoreapp2.1\Open.TeacherClub.Redis.csproj.CoreCompileInputs.cache
+H:\学习\NetCoreTest\OneTestAutofac\Open.TeacherClub.Redis\obj\Debug\netcoreapp2.1\Open.TeacherClub.Redis.AssemblyInfoInputs.cache
+H:\学习\NetCoreTest\OneTestAutofac\Open.TeacherClub.Redis\obj\Debug\netcoreapp2.1\Open.TeacherClub.Redis.AssemblyInfo.cs
+H:\学习\NetCoreTest\OneTestAutofac\Open.TeacherClub.Redis\obj\Debug\netcoreapp2.1\Open.TeacherClub.Redis.csproj.CopyComplete
+H:\学习\NetCoreTest\OneTestAutofac\Open.TeacherClub.Redis\obj\Debug\netcoreapp2.1\Open.TeacherClub.Redis.dll
+H:\学习\NetCoreTest\OneTestAutofac\Open.TeacherClub.Redis\obj\Debug\netcoreapp2.1\Open.TeacherClub.Redis.pdb
+H:\学习\NetCoreTest\OneTestAutofacReadWrite\Open.TeacherClub.Redis\bin\Debug\netcoreapp2.1\Open.TeacherClub.Redis.deps.json
+H:\学习\NetCoreTest\OneTestAutofacReadWrite\Open.TeacherClub.Redis\bin\Debug\netcoreapp2.1\Open.TeacherClub.Redis.dll
+H:\学习\NetCoreTest\OneTestAutofacReadWrite\Open.TeacherClub.Redis\bin\Debug\netcoreapp2.1\Open.TeacherClub.Redis.pdb
+H:\学习\NetCoreTest\OneTestAutofacReadWrite\Open.TeacherClub.Redis\bin\Debug\netcoreapp2.1\Open.TeacherClub.Utility.dll
+H:\学习\NetCoreTest\OneTestAutofacReadWrite\Open.TeacherClub.Redis\bin\Debug\netcoreapp2.1\Open.TeacherClub.Utility.pdb
+H:\学习\NetCoreTest\OneTestAutofacReadWrite\Open.TeacherClub.Redis\obj\Debug\netcoreapp2.1\Open.TeacherClub.Redis.csprojAssemblyReference.cache
+H:\学习\NetCoreTest\OneTestAutofacReadWrite\Open.TeacherClub.Redis\obj\Debug\netcoreapp2.1\Open.TeacherClub.Redis.csproj.CoreCompileInputs.cache
+H:\学习\NetCoreTest\OneTestAutofacReadWrite\Open.TeacherClub.Redis\obj\Debug\netcoreapp2.1\Open.TeacherClub.Redis.AssemblyInfoInputs.cache
+H:\学习\NetCoreTest\OneTestAutofacReadWrite\Open.TeacherClub.Redis\obj\Debug\netcoreapp2.1\Open.TeacherClub.Redis.AssemblyInfo.cs
+H:\学习\NetCoreTest\OneTestAutofacReadWrite\Open.TeacherClub.Redis\obj\Debug\netcoreapp2.1\Open.TeacherClub.Redis.csproj.CopyComplete
+H:\学习\NetCoreTest\OneTestAutofacReadWrite\Open.TeacherClub.Redis\obj\Debug\netcoreapp2.1\Open.TeacherClub.Redis.dll
+H:\学习\NetCoreTest\OneTestAutofacReadWrite\Open.TeacherClub.Redis\obj\Debug\netcoreapp2.1\Open.TeacherClub.Redis.pdb

@@ -1,0 +1,16 @@
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.Repository\bin\Debug\netcoreapp2.1\GaoJD.TeacherClub.Repository.deps.json
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.Repository\bin\Debug\netcoreapp2.1\GaoJD.TeacherClub.Repository.dll
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.Repository\bin\Debug\netcoreapp2.1\GaoJD.TeacherClub.Repository.pdb
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.Repository\bin\Debug\netcoreapp2.1\GaoJD.TeacherClub.BusinessEntity.dll
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.Repository\bin\Debug\netcoreapp2.1\GaoJD.TeacherClub.Core.dll
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.Repository\bin\Debug\netcoreapp2.1\GaoJD.TeacherClub.Utility.dll
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.Repository\bin\Debug\netcoreapp2.1\GaoJD.TeacherClub.BusinessEntity.pdb
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.Repository\bin\Debug\netcoreapp2.1\GaoJD.TeacherClub.Core.pdb
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.Repository\bin\Debug\netcoreapp2.1\GaoJD.TeacherClub.Utility.pdb
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.Repository\obj\Debug\netcoreapp2.1\GaoJD.TeacherClub.Repository.csprojAssemblyReference.cache
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.Repository\obj\Debug\netcoreapp2.1\GaoJD.TeacherClub.Repository.csproj.CoreCompileInputs.cache
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.Repository\obj\Debug\netcoreapp2.1\GaoJD.TeacherClub.Repository.AssemblyInfoInputs.cache
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.Repository\obj\Debug\netcoreapp2.1\GaoJD.TeacherClub.Repository.AssemblyInfo.cs
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.Repository\obj\Debug\netcoreapp2.1\GaoJD.TeacherClub.Repository.csproj.CopyComplete
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.Repository\obj\Debug\netcoreapp2.1\GaoJD.TeacherClub.Repository.dll
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.Repository\obj\Debug\netcoreapp2.1\GaoJD.TeacherClub.Repository.pdb

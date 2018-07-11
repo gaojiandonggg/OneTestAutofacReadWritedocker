@@ -1,0 +1,16 @@
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.Core\bin\Debug\netcoreapp2.1\GaoJD.TeacherClub.Core.deps.json
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.Core\bin\Debug\netcoreapp2.1\GaoJD.TeacherClub.Core.runtimeconfig.json
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.Core\bin\Debug\netcoreapp2.1\GaoJD.TeacherClub.Core.runtimeconfig.dev.json
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.Core\bin\Debug\netcoreapp2.1\GaoJD.TeacherClub.Core.dll
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.Core\bin\Debug\netcoreapp2.1\GaoJD.TeacherClub.Core.pdb
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.Core\bin\Debug\netcoreapp2.1\GaoJD.TeacherClub.BusinessEntity.dll
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.Core\bin\Debug\netcoreapp2.1\GaoJD.TeacherClub.Utility.dll
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.Core\bin\Debug\netcoreapp2.1\GaoJD.TeacherClub.BusinessEntity.pdb
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.Core\bin\Debug\netcoreapp2.1\GaoJD.TeacherClub.Utility.pdb
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.Core\obj\Debug\netcoreapp2.1\GaoJD.TeacherClub.Core.csprojAssemblyReference.cache
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.Core\obj\Debug\netcoreapp2.1\GaoJD.TeacherClub.Core.csproj.CoreCompileInputs.cache
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.Core\obj\Debug\netcoreapp2.1\GaoJD.TeacherClub.Core.AssemblyInfoInputs.cache
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.Core\obj\Debug\netcoreapp2.1\GaoJD.TeacherClub.Core.AssemblyInfo.cs
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.Core\obj\Debug\netcoreapp2.1\GaoJD.TeacherClub.Core.csproj.CopyComplete
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.Core\obj\Debug\netcoreapp2.1\GaoJD.TeacherClub.Core.dll
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\Open.TeacherClub.Core\obj\Debug\netcoreapp2.1\GaoJD.TeacherClub.Core.pdb
