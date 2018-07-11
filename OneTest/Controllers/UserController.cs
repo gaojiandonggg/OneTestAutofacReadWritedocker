@@ -22,6 +22,7 @@ namespace GaoJD.Club.OneTest.Controllers
     public class UserController : BaseApiController
     {
 
+        int bbb = 2;
 
 
 
