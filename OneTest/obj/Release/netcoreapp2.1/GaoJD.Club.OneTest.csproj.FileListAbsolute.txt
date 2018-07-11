@@ -23,11 +23,11 @@ H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\OneTest\bin\Release\netcorea
 H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\OneTest\bin\Release\netcoreapp2.1\GaoJD.Club.Utility.pdb
 H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\OneTest\obj\Release\netcoreapp2.1\GaoJD.Club.OneTest.csprojAssemblyReference.cache
 H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\OneTest\obj\Release\netcoreapp2.1\GaoJD.Club.OneTest.csproj.CoreCompileInputs.cache
-H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\OneTest\obj\Release\netcoreapp2.1\GaoJD.Club.OneTest.RazorAssemblyInfo.cache
-H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\OneTest\obj\Release\netcoreapp2.1\GaoJD.Club.OneTest.RazorAssemblyInfo.cs
 H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\OneTest\obj\Release\netcoreapp2.1\GaoJD.Club.OneTest.AssemblyInfoInputs.cache
 H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\OneTest\obj\Release\netcoreapp2.1\GaoJD.Club.OneTest.AssemblyInfo.cs
-H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\OneTest\obj\Release\netcoreapp2.1\GaoJD.Club.OneTest.RazorTargetAssemblyInfo.cache
 H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\OneTest\obj\Release\netcoreapp2.1\GaoJD.Club.OneTest.csproj.CopyComplete
 H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\OneTest\obj\Release\netcoreapp2.1\GaoJD.Club.OneTest.dll
 H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\OneTest\obj\Release\netcoreapp2.1\GaoJD.Club.OneTest.pdb
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\OneTest\obj\Release\netcoreapp2.1\GaoJD.Club.OneTest.RazorAssemblyInfo.cache
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\OneTest\obj\Release\netcoreapp2.1\GaoJD.Club.OneTest.RazorAssemblyInfo.cs
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\OneTest\obj\Release\netcoreapp2.1\GaoJD.Club.OneTest.RazorTargetAssemblyInfo.cache

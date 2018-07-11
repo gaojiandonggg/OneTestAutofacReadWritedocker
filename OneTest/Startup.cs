@@ -7,7 +7,6 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using OneTest.Extensions;
@@ -30,6 +29,7 @@ using System.IO;
 using System.Linq;
 using System.Reflection;
 using GaoJD.Club.OneTest;
+using Microsoft.EntityFrameworkCore;
 
 namespace OneTest
 {
