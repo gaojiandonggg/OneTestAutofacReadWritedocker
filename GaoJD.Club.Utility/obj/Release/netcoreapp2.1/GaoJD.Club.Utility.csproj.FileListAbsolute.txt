@@ -3,6 +3,7 @@ H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\GaoJD.Club.Utility\bin\Relea
 H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\GaoJD.Club.Utility\bin\Release\netcoreapp2.1\GaoJD.Club.Utility.runtimeconfig.dev.json
 H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\GaoJD.Club.Utility\bin\Release\netcoreapp2.1\GaoJD.Club.Utility.dll
 H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\GaoJD.Club.Utility\bin\Release\netcoreapp2.1\GaoJD.Club.Utility.pdb
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\GaoJD.Club.Utility\obj\Release\netcoreapp2.1\GaoJD.Club.Utility.csprojAssemblyReference.cache
 H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\GaoJD.Club.Utility\obj\Release\netcoreapp2.1\GaoJD.Club.Utility.csproj.CoreCompileInputs.cache
 H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\GaoJD.Club.Utility\obj\Release\netcoreapp2.1\GaoJD.Club.Utility.AssemblyInfoInputs.cache
 H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\GaoJD.Club.Utility\obj\Release\netcoreapp2.1\GaoJD.Club.Utility.AssemblyInfo.cs

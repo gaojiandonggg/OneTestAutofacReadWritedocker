@@ -1,9 +1,10 @@
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\GaoJD.Club.BusinessEntity\bin\Release\netcoreapp2.1\GaoJD.Club.BusinessEntity.xml
 H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\GaoJD.Club.BusinessEntity\bin\Release\netcoreapp2.1\GaoJD.Club.BusinessEntity.deps.json
 H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\GaoJD.Club.BusinessEntity\bin\Release\netcoreapp2.1\GaoJD.Club.BusinessEntity.dll
 H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\GaoJD.Club.BusinessEntity\bin\Release\netcoreapp2.1\GaoJD.Club.BusinessEntity.pdb
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\GaoJD.Club.BusinessEntity\obj\Release\netcoreapp2.1\GaoJD.Club.BusinessEntity.csprojAssemblyReference.cache
 H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\GaoJD.Club.BusinessEntity\obj\Release\netcoreapp2.1\GaoJD.Club.BusinessEntity.csproj.CoreCompileInputs.cache
 H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\GaoJD.Club.BusinessEntity\obj\Release\netcoreapp2.1\GaoJD.Club.BusinessEntity.AssemblyInfoInputs.cache
 H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\GaoJD.Club.BusinessEntity\obj\Release\netcoreapp2.1\GaoJD.Club.BusinessEntity.AssemblyInfo.cs
 H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\GaoJD.Club.BusinessEntity\obj\Release\netcoreapp2.1\GaoJD.Club.BusinessEntity.dll
 H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\GaoJD.Club.BusinessEntity\obj\Release\netcoreapp2.1\GaoJD.Club.BusinessEntity.pdb
-H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\GaoJD.Club.BusinessEntity\bin\Release\netcoreapp2.1\GaoJD.Club.BusinessEntity.xml

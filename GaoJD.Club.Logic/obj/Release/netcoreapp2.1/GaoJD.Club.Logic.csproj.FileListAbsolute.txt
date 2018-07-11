@@ -6,6 +6,7 @@ H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\GaoJD.Club.Logic\bin\Release
 H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\GaoJD.Club.Logic\bin\Release\netcoreapp2.1\GaoJD.Club.Repository.dll
 H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\GaoJD.Club.Logic\bin\Release\netcoreapp2.1\GaoJD.Club.Utility.dll
 H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\GaoJD.Club.Logic\bin\Release\netcoreapp2.1\GaoJD.Club.BusinessEntity.pdb
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\GaoJD.Club.Logic\bin\Release\netcoreapp2.1\GaoJD.Club.BusinessEntity.xml
 H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\GaoJD.Club.Logic\bin\Release\netcoreapp2.1\GaoJD.Club.Repository.pdb
 H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\GaoJD.Club.Logic\bin\Release\netcoreapp2.1\GaoJD.Club.Core.pdb
 H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\GaoJD.Club.Logic\bin\Release\netcoreapp2.1\GaoJD.Club.Utility.pdb

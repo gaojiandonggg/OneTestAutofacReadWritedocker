@@ -22,6 +22,11 @@ namespace GaoJD.Club.OneTest.Controllers
     public class UserController : BaseApiController
     {
 
+
+
+
+
+
         private readonly IUserLogic _UserLogic;
         AppConfigurtaionServices _AppConfigurtaionServices;
         private ILogger _Logger;
