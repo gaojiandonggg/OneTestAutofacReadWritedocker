@@ -24,7 +24,7 @@ namespace GaoJD.Club.OneTest.Controllers
 
 
 
-
+int aaa=1;
 
 
         private readonly IUserLogic _UserLogic;
