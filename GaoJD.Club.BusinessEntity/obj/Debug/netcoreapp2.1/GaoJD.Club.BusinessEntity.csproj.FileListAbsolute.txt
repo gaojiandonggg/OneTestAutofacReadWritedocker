@@ -14,3 +14,4 @@ H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\GaoJD.Club.BusinessEntity\ob
 H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\GaoJD.Club.BusinessEntity\obj\Debug\netcoreapp2.1\GaoJD.Club.BusinessEntity.AssemblyInfo.cs
 H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\GaoJD.Club.BusinessEntity\obj\Debug\netcoreapp2.1\GaoJD.Club.BusinessEntity.dll
 H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\GaoJD.Club.BusinessEntity\obj\Debug\netcoreapp2.1\GaoJD.Club.BusinessEntity.pdb
+H:\学习\NetCoreTest\OneTestAutofacReadWritedocker\GaoJD.Club.BusinessEntity\obj\Debug\netcoreapp2.1\GaoJD.Club.BusinessEntity.csprojAssemblyReference.cache
